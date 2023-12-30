@@ -1,0 +1,1 @@
+# This respository contains a tiny project applying basic concepts i've learned in CSS such as CSS selectors and Colors, CSS Units sizes, CSS Box model, CSS Text and fonts, Styling HTML hypertext links in CSS and CSS List styles
